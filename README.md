@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é @larihterres
+- 👍 Meu email de contato é larissa.terres@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath
